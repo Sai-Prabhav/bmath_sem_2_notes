@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "8bd36c8378790200",
+    "type": "split",
+    "children": [
+      {
+        "id": "d282bb3bbf4649dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d78ab1db400ee874",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4322e58e1c2aa34",
+    "type": "split",
+    "children": [
+      {
+        "id": "043c858c6ee854c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b5c15c37ed83e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5df166a36f7e812",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba0df6be1cf1ccfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "acb74afee061b65f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d570d864df0ee89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "686ae4cee7ebcd2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "real analyses/9. Differentiation.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 9. Differentiation"
+            }
+          },
+          {
+            "id": "8dc0402a3b135bf3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "real analyses/9. Differentiation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 9. Differentiation"
+            }
+          },
+          {
+            "id": "a40244d601ab1a8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d044461e9838f0f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d78ab1db400ee874",
+  "lastOpenFiles": [
+    "real analyses/5. Intermediate Value Theorem.md",
+    "Probability/4. Conditional distribution.md",
+    "Probability/Poisson.md",
+    "Probability/sheldon_ross.pdf",
+    "Custom Commands.md",
+    "Probability/5. Conditional Expectation.md",
+    "Probability/Exercise 4 Solutions.md",
+    "Probability/9. Common densities.md",
+    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
+    "Probability/1. Multinomial Distribution.md",
+    "snippet/my_snippet.md",
+    "number_theory/9. Linear  Recurrences.md",
+    "number_theory/8. Linear Diophantine Equation.md",
+    "number_theory/7. Average of Arithmetic Function.md",
+    "number_theory/6. Multiplicative Functions.md",
+    "number_theory/5. The Mobius Inverse Formula.md",
+    "number_theory/4. Arithmetic Functions.md",
+    "number_theory/Problem_set.pdf",
+    "number_theory/3. Binary.md",
+    "number_theory/Infinite Primes.md",
+    "real analyses/9. Differentiation.md",
+    "linear algebra/Problems.md",
+    "linear algebra/6. Question.md",
+    "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.29.jpeg",
+    "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.43.jpeg",
+    "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.59.27.jpeg",
+    "linear algebra/7. Generalised Inverse.md",
+    "linear algebra/3. Rank.md",
+    "linear algebra/Problems on.md",
+    "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.55.jpeg",
+    "linear algebra/problems",
+    "number_theory/david_m-_burton_elementary_number_theory_seventbook4you.pdf",
+    "real analyses/3. Convergences of Series.md",
+    "number_theory/Mid Sem Questions.md",
+    "real analyses/real-analysis-by-bartle.pdf",
+    "snippet/old_snippet.js",
+    "snippet/my_snippet.md.js",
+    "website/linear-algebra/9.-lu-decomposition.html",
+    "Pasted image 20241019224117.png",
+    "website/probability/10.-stirling's-formula.html",
+    "website/probability/9.-common-densities.html",
+    "Pasted image 20241019115547.png",
+    "Pasted image 20241019115554.png",
+    "Untitled.canvas",
+    "html_files/lib/media/favicon.png",
+    "html_files/html_files/lib/media/874d8b8e340f75575caa.svg",
+    "html_files/html_files/lib/media/3d6c1bdc4d87cde4de67.svg"
+  ]
+}
