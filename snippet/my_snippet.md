@@ -23,6 +23,13 @@
         description: "Auto letter subscript",
         priority: -1,
     },
+    {
+        trigger: /(<!\\)(\b[0-9a-zA-Z]*[a-zA-Z])(\d+)(\b)/,
+        replacement: "[[0]]_{[[1]]}",
+        options: "rmA",
+        description: "Auto letter subscript",
+        priority: -1,
+    },
     
     { trigger: "Ex", replacement: "\\ex[${0:X}] $1", options: "mA" },
     {

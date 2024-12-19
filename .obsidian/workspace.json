@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real_analysis/Class 1.md",
+                "file": "snippet/my_snippet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 1"
+              "title": "my_snippet"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real_analysis/Class 1.md"
+                "file": "snippet/my_snippet.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Class 1"
+              "title": "Outline of my_snippet"
             }
           }
         ],
@@ -196,15 +196,15 @@
   },
   "active": "6d8d7c598fb95aa5",
   "lastOpenFiles": [
+    "linear_algebra/Untitled.md",
+    "snippet/my_snippet.md",
+    "snippet/old_snippet.md",
+    "Index.md",
     "real_analysis/Class 1.md",
     "probability/Class 1.md",
     "linear_algebra/Class 1.md",
     "Custom Commands.md",
-    "snippet/old_snippet.md",
-    "snippet/my_snippet.md",
     "snippet",
-    "Index.md",
-    "linear_algebra/Untitled.md",
     "website/index.html",
     "website/lib/search-index.json",
     "website/lib/metadata.json",

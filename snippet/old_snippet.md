@@ -166,6 +166,7 @@
         replacement: "[[0]]_{[[1]]}",
         options: "rmA",
     },
+
     {
         trigger: /\\hat{([A-Za-z])}(\d)/,
         replacement: "\\hat{[[0]]}_{[[1]]}",
@@ -338,6 +339,8 @@
         replacement: "\\underline{\\[[0]]}",
         options: "rmA",
     },
+    // add greek letters _ number
+
 
     // Derivatives and integrals
     {
