@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d78ab1db400ee874",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "6d8d7c598fb95aa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear_algebra/Class 1.md",
+                "file": "real_analysis/Class 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -59,8 +49,7 @@
               "title": "Index"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,9 +166,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "real_analysis/Class 1.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Class 1"
             }
           }
         ],
@@ -203,12 +194,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c9a8c42d5a30313",
+  "active": "6d8d7c598fb95aa5",
   "lastOpenFiles": [
-    "website/index.html",
-    "linear_algebra/Untitled.md",
-    "Index.md",
     "real_analysis/Class 1.md",
+    "probability/Class 1.md",
+    "linear_algebra/Class 1.md",
+    "Custom Commands.md",
+    "snippet/old_snippet.md",
+    "snippet/my_snippet.md",
+    "snippet",
+    "Index.md",
+    "linear_algebra/Untitled.md",
+    "website/index.html",
     "website/lib/search-index.json",
     "website/lib/metadata.json",
     "website/lib/styles/main-styles.css",
@@ -217,22 +214,16 @@
     "website/lib/styles/other-plugins.css",
     "website/lib/styles/obsidian.css",
     "website/lib/styles",
-    "website/lib/scripts/graph-data.js",
     "website/lib/media/favicon.png",
-    "website/lib/scripts/minisearch.js",
     "website/lib/media/874d8b8e340f75575caa.svg",
-    "probability/Class 1.md",
-    "linear_algebra/Class 1.md",
     "real analyses/5. Intermediate Value Theorem.md",
     "Probability/4. Conditional distribution.md",
     "Probability/Poisson.md",
-    "Custom Commands.md",
     "Probability/5. Conditional Expectation.md",
     "Probability/Exercise 4 Solutions.md",
     "Probability/9. Common densities.md",
     "Probability/8. Expectation and Variance of Continuous Random Variables.md",
     "Probability/1. Multinomial Distribution.md",
-    "snippet/my_snippet.md",
     "number_theory/9. Linear  Recurrences.md",
     "number_theory/8. Linear Diophantine Equation.md",
     "number_theory/7. Average of Arithmetic Function.md",
