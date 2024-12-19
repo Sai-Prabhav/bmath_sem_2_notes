@@ -48,7 +48,8 @@
     [
       "linear_algebra",
       "probability",
-      "real_analysis"
+      "real_analysis",
+      "Index.md"
     ]
   ]
 }
