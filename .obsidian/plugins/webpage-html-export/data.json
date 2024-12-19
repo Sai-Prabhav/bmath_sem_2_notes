@@ -26,9 +26,9 @@
   "addGraphView": true,
   "addTitle": true,
   "addRSSFeed": true,
-  "siteURL": "https://sai-prabhav.github.io/bmath_notes/",
+  "siteURL": "https://sai-prabhav.github.io/bmath_sem_2_notes/",
   "authorName": "V Sai Prabhav",
-  "vaultTitle": "Bmath_notes",
+  "vaultTitle": "bmath_sem_2_notes",
   "exportPreset": "website",
   "openAfterExport": true,
   "graphAttractionForce": 2,
@@ -46,14 +46,9 @@
   "exportPath": "/home/greenflame/Desktop/Obsidain_notes/bmath_sem_2_notes/website",
   "filesToExport": [
     [
-      "linear algebra",
-      "number_theory",
-      "Probability",
-      "real analyses",
-      "All Queries.md",
-      "Index.md",
-      "LICENSE",
-      "README.md"
+      "linear_algebra",
+      "probability",
+      "real_analysis"
     ]
   ]
 }
