@@ -46,9 +46,9 @@
   "exportPath": "/home/greenflame/Desktop/Obsidain_notes/bmath_sem_2_notes/website",
   "filesToExport": [
     [
-      "linear_algebra",
-      "probability",
-      "real_analysis",
+      "content/linear_algebra",
+      "content/probability",
+      "content/real_analysis",
       "Index.md"
     ]
   ]
